@@ -1,6 +1,12 @@
 # Pixhawk Hardware Designs
 
-[![Join the chat at https://gitter.im/PX4/Hardware](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PX4/Hardware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
+<div align="center">
+
+[![Join the chat at Gitter](https://img.shields.io/badge/Chat-Gitter-blue?style=flat&logo=gitter)](https://gitter.im/PX4/Hardware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[![FMUv1](https://img.shields.io/badge/FMUv1-Discontinued-pink?style=flat)](FMUv1/README.md) [![FMUv2](https://img.shields.io/badge/FMUv2-Pixhawk%201-skyblue?style=flat)](FMUv2/README.md) [![FMUv3](https://img.shields.io/badge/FMUv3-Pixhawk%202-brown?style=flat)](FMUv3_REV_D/README.md) [![FMUv4](https://img.shields.io/badge/FMUv4-Pixracer-gold?style=flat)](FMUv4/README.md) [![FMUv4X](https://img.shields.io/badge/FMUv4X-Pixhawk%203%20Pro-orange?style=flat)](#fmu_versions) [![FMUv5](https://img.shields.io/badge/FMUv5-Pixhawk%204-green?style=flat)](FMUv5/README.md) [![FMUv5X](https://img.shields.io/badge/FMUv5X-Pixhawk%205X-teal?style=flat)](#fmu_versions)
+
+</div>
 
 [Pixhawk](http://pixhawk.org) is an independent open-hardware project that aims to provide "the gold standard" for readily-available, hiqh-quality and low-cost autopilot hardware designs for the academic, hobby and developer communities.
 Pixhawk supports multiple flight stacks: PX4 ® and ArduPilot ®.
@@ -18,6 +24,7 @@ In essence, this definition allows anyone to freely study, modify, distribute, m
 Hardware designs delivered by the project are listed below.
 
 <span id="fmu_designs"></span>
+
 ### FMU (Autopilot) Designs
 
 Pixhawk FMU open designs include all information required to create an autopilot hardware product that is *firmware compatible* with other hardware created from the same design.
@@ -41,6 +48,8 @@ These are provided in the form of PCB layout files.
 
 The reference hardware files are shared under the same [license](#licenses) as the associated open design, and hence may be used in the same way(s).
 
+<span id="fmu_versions"></span>
+
 #### FMU Versions
 
 The Pixhawk project has evolved the FMU design through a number of verisons.
@@ -61,7 +70,7 @@ FMUv4X | 2017 | Pixhawk 3 Pro | 168 MHz M4 | Slightly increased RAM. More serial
 FMUv5X | 2019 | Pixhawk 5X | 200 MHz M7 | Temp-calibrated, redundant sensors.
 
 
-> **Note** Products based on Pixhawk designs are listed here: [PX4 User Guide > Pixhawk Series]( https://docs.px4.io/master/en/flight_controller/pixhawk_series.html#pixhawk-series).
+> **Note** Products based on Pixhawk designs are listed here: [PX4 User Guide > Pixhawk Series]( https://docs.px4.io/main/en/flight_controller/pixhawk_series.html#pixhawk-series).
 
 
 #### Derived FMU Products
