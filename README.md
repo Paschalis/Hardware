@@ -70,7 +70,8 @@ FMUv4X | 2017 | Pixhawk 3 Pro | 168 MHz M4 | Slightly increased RAM. More serial
 FMUv5X | 2019 | Pixhawk 5X | 200 MHz M7 | Temp-calibrated, redundant sensors.
 
 
-> **Note** Products based on Pixhawk designs are listed here: [PX4 User Guide > Pixhawk Series]( https://docs.px4.io/main/en/flight_controller/pixhawk_series.html#pixhawk-series).
+> [!NOTE]
+> Products based on Pixhawk designs are listed here: [PX4 User Guide > Pixhawk Series](https://docs.px4.io/main/en/flight_controller/pixhawk_series.html#pixhawk-series).
 
 
 #### Derived FMU Products
