@@ -4,7 +4,7 @@
 
 [![Join the chat at Gitter](https://img.shields.io/badge/Chat-Gitter-blue?style=flat&logo=gitter)](https://gitter.im/PX4/Hardware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![FMUv1](https://img.shields.io/badge/FMUv1-Discontinued-pink?style=flat)](FMUv1/README.md) [![FMUv2](https://img.shields.io/badge/FMUv2-Pixhawk%201-skyblue?style=flat)](FMUv2/README.md) [![FMUv3](https://img.shields.io/badge/FMUv3-Pixhawk%202-brown?style=flat)](FMUv3_REV_D/README.md) [![FMUv4](https://img.shields.io/badge/FMUv4-Pixracer-gold?style=flat)](FMUv4/README.md) [![FMUv4X](https://img.shields.io/badge/FMUv4X-Pixhawk%203%20Pro-orange?style=flat)](#fmu_versions) [![FMUv5](https://img.shields.io/badge/FMUv5-Pixhawk%204-green?style=flat)](FMUv5/README.md) [![FMUv5X](https://img.shields.io/badge/FMUv5X-Pixhawk%205X-teal?style=flat)](#fmu_versions)
+[![FMUv1](https://img.shields.io/badge/FMUv1-Discontinued-pink?style=flat)](FMUv1/README.md) [![FMUv2](https://img.shields.io/badge/FMUv2-Pixhawk%201-skyblue?style=flat)](FMUv2/README.md) [![FMUv3](https://img.shields.io/badge/FMUv3-Pixhawk%202-brown?style=flat)](FMUv3_REV_D/README.md) [![FMUv4](https://img.shields.io/badge/FMUv4-Pixracer-gold?style=flat)](FMUv4/README.md) [![FMUv4X](https://img.shields.io/badge/FMUv4X-Pixhawk%203%20Pro-orange?style=flat)](#fmu_versions) [![FMUv5](https://img.shields.io/badge/FMUv5-Pixhawk%204-green?style=flat)](FMUv5/README.md) [![FMUv5X](https://img.shields.io/badge/FMUv5X-Pixhawk%205X-teal?style=flat)](#fmu-versions)
 
 </div>
 
